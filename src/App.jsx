@@ -6,6 +6,8 @@ import Technologies from './components/Technologies';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
 
 const App = () => {
   return (
@@ -19,6 +21,13 @@ const App = () => {
         <Experience/>
         <Projects/>
         <Contact/>
+        
+        <a href="https://wa.me/+919916335613" target="_blank" 
+   class="fixed w-16 h-16 bottom-10 right-10 bg-[#25d366] text-white rounded-full flex items-center justify-center text-3xl shadow-lg hover:bg-[#1ebd59] 
+          transform hover:scale-110 transition-transform duration-300 ease-in-out animate-bounce">
+    <i class="fab fa-whatsapp"></i>
+</a>
+
       </div>
     </div>
   );
