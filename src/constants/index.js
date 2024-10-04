@@ -24,6 +24,7 @@ Looking ahead, I am excited to continue expanding my knowledge and skills with t
 export const EXPERIENCES = [
   {
     year: "2023 - 2024",
+    score: 9.58,
     sem: "IV - Semester [B.Tech CSIT]",
     description: `Studied advanced topics in Computer Science including Database Management Systems, Computer Organization and Architecture, and Design & Analysis of Algorithms. Explored Entrepreneurship to understand the fundamentals of starting and managing a business.`,
     technologies: ["Java", "DBMS", "COA", "Entrepreneurship","Design & Analysis of Algorithms"],

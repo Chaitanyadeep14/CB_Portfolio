@@ -90,27 +90,13 @@ const Technologies = () => {
                     <SiMysql className="text-7xl text-sky-700" /><center>MySql</center>
                 </motion.div>
                 <motion.div
-                    variants={iconVariants(-25, 4.5)}
-                    initial="initial"
-                    animate="animate"
-                    className="rounded-2xl border-4 border-neutral-800 p-4">
-                    <SiJavascript className="text-7xl text-yellow-400" /><center>JavaScript</center>
-                </motion.div>
-                <motion.div
-                    variants={iconVariants(30, 5)}
-                    initial="initial"
-                    animate="animate"
-                    className="rounded-2xl border-4 border-neutral-800 p-4">
-                    <SiMongodb className="text-7xl text-green-500" /><center>MongoDB</center>
-                </motion.div>
-                <motion.div
                     variants={iconVariants(-30, 5.5)}
                     initial="initial"
                     animate="animate"
                     className="rounded-2xl border-4 border-neutral-800 p-4">
                     <FaNodeJs className="text-7xl text-green-500" /><center>Node.js</center>
                 </motion.div>
-                <motion.div
+                <motion.div 
                     variants={iconVariants(35, 6)}
                     initial="initial"
                     animate="animate"

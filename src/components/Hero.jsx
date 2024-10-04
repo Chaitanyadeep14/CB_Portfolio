@@ -40,9 +40,10 @@ const Hero = () => {
             <motion.img
             initial={{ x: 100, opacity: 0}}
             animate={{ x: 0, opacity: 1}}
-            height={450}
-            width={450}
+            height={500}
+            width={500}
             transition={{ duration: 1, delay: 1.2}} 
+            className="rounded-2xl"
             src={profilePic} alt="Kevin Rush"/>
            </div>
            </div>
