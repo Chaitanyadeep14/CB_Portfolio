@@ -22,7 +22,7 @@ const App = () => {
         <Projects/>
         <Contact/>
         
-        <a href="https://wa.me/+919916335613" target="_blank" 
+        <a href="https://wa.me/+919392405515" target="_blank" 
    class="fixed w-16 h-16 bottom-10 right-10 bg-[#25d366] text-white rounded-full flex items-center justify-center text-3xl shadow-lg hover:bg-[#1ebd59] 
           transform hover:scale-110 transition-transform duration-300 ease-in-out animate-bounce">
     <i class="fab fa-whatsapp"></i>
