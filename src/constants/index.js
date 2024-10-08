@@ -10,17 +10,12 @@ export const HERO_CONTENT = `I am a dedicated Computer Science & Information Tec
 
 export const ABOUT_TEXT = `
 
-Hello! I'm Chaitanya Deep Chellu, a dedicated and passionate student currently pursuing my studies in Computer Science & Information Technology at Reva University. 
-With a keen interest in software development and data analysis, I am driven by a desire to learn, innovate, and make a meaningful impact in the world. 
-My academic journey has been a blend of rigorous coursework, hands-on projects, and collaborative research. 
-At Reva University, I have had the opportunity to delve deep into subjects such as programming languages like Python,C and Java, as well as web development technologies such as HTML, CSS, and JavaScript. 
-These experiences have not only broadened my knowledge but also honed my problem-solving and analytical skills.
-I am proficient in SQL and Excel and have strong abilities in research, data analysis, project management, and team collaboration. 
-Throughout my academic career, I have contributed to several noteworthy projects, including a Netflix Clone page using HTML and CSS, where I recreated the Netflix landing page to improve my web development skills;
-a To-Do List App using React.js, where I developed an interactive and user-friendly application to manage tasks efficiently and have achieved [mention any awards, recognitions, or accomplishments]. 
-Outside of academics, I enjoy listening to music,travel on bikes,watching movies,reading books, which provide a creative outlet and a well-rounded perspective on life. 
-Looking ahead, I am excited to continue expanding my knowledge and skills with the ultimate goal of Software Developer and Data Scientist, where I can leverage my expertise to create innovative solutions and drive technological advancements.
-`
+I'm Chaitanya Deep Chellu, a Computer Science & Information Technology student at Reva University with a strong passion for 
+software development and data analysis. My academic journey has focused on programming languages like Python, C, and Java, 
+along with web technologies such as HTML, CSS, and JavaScript. I am proficient in SQL, Excel, and skilled in research, data analysis, 
+and project management. Some of my notable projects include a Netflix Clone page (HTML, CSS) and a To-Do List App (React.js). 
+Outside of academics, I enjoy music, biking, movies, and reading. My ultimate goal is to become a Software Developer and Data Scientist, 
+contributing to innovative solutions and technological advancements.`
 export const EXPERIENCES = [
   {
     year: "2023 - 2024",
@@ -69,11 +64,12 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "To-Do List App",
+    title: "To-Do List App (UI only for Desktop)",
     image: project2,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML","CSS","React", "Firebase", "JavaScript"],
+    links:"https://dayflow-abd43.web.app/"
   },
 ];
 

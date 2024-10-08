@@ -1,5 +1,6 @@
 import logo from "../assets/chLogo.png";
-import { FaLinkedin, FaGithub, FaInstagram, FaTwitterSquare } from "react-icons/fa";
+import { FaLinkedin, FaGithub} from "react-icons/fa";
+import { SiHackerrank } from "react-icons/si";
 
 const Navbar = () => {
   return (
@@ -25,20 +26,12 @@ const Navbar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://www.instagram.com/c_h_a_i_t_a_n_y_a__d_e_e_p?igsh=MXloaGJsMWlzMTZj"
+          href="https://www.hackerrank.com/profile/chaitanyadeepch1"
           target="_blank"
           rel="noopener noreferrer"
-          className="transition-transform transform hover:scale-110 hover:text-pink-500"
+          className="transition-transform transform hover:scale-110 hover:text-green-500"
         >
-          <FaInstagram />
-        </a>
-        <a
-          href="https://twitter.com/your-profile"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="transition-transform transform hover:scale-110 hover:text-blue-400"
-        >
-          <FaTwitterSquare />
+          <SiHackerrank />
         </a>
       </div>
     </nav>
