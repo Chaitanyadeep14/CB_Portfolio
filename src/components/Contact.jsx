@@ -33,7 +33,7 @@ const Contact = () => {
                 {CONTACT.phoneNo}
             </motion.p>
             <a 
-            href="https://mail.google.com/mail/u/1/#inbox?compose=new" 
+            href="mailto:shalupandeys9876@gmail.com" 
             className='flex items-center justify-center gap-2'>
                 <SiGmail className='text-2xl text-[#D93025] bg-white w-8'/>
                 <u>{CONTACT.email}</u>

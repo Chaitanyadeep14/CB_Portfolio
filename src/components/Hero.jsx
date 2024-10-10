@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants"
-import profilePic from '../assets/chProfile.jpg'
+import profilePic from '../assets/shProfile.jpeg'
 import { delay, motion } from "framer-motion"
 import { HiDocumentDownload } from "react-icons/hi"
 
@@ -22,7 +22,7 @@ const Hero = () => {
              variants={container(0)}
              initial="hidden"
              animate="visible"
-             className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl">Chaitanya Deep Chellu</motion.h1> 
+             className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl">Shalu Pandey</motion.h1> 
              <motion.span 
               variants={container(0.5)}
               initial="hidden"
@@ -40,8 +40,8 @@ const Hero = () => {
             <motion.img
             initial={{ x: 100, opacity: 0}}
             animate={{ x: 0, opacity: 1}}
-            height={500}
-            width={500}
+            height={400}
+            width={400}
             transition={{ duration: 1, delay: 1.2}} 
             className="rounded-2xl"
             src={profilePic} alt="Kevin Rush"/>
