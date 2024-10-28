@@ -1,4 +1,4 @@
-import logo from "../assets/shLogo.png";
+import logo from "../assets/chLogo.png";
 import { FaLinkedin, FaGithub} from "react-icons/fa";
 import { SiHackerrank } from "react-icons/si";
 
@@ -10,7 +10,7 @@ const Navbar = () => {
       </div>
       <div className="ml-auto flex items-center justify-center gap-4 text-3xl">
         <a
-          href="https://www.linkedin.com/in/shalu-pandey-b0a638294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          href="https://in.linkedin.com/in/chaitanya-deep-chellu-4a2a32213"
           target="_blank"
           rel="noopener noreferrer"
           className="transition-transform transform hover:scale-110 hover:text-blue-500"
@@ -18,7 +18,7 @@ const Navbar = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://github.com/Shalupandeys"
+          href="https://github.com/Chaitanyadeep14"
           target="_blank"
           rel="noopener noreferrer"
           className="transition-transform transform hover:scale-110 hover:text-purple-700"
@@ -26,7 +26,7 @@ const Navbar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://www.hackerrank.com/profile/shalupandeys9876"
+          href="https://www.hackerrank.com/profile/chaitanyadeepch1"
           target="_blank"
           rel="noopener noreferrer"
           className="transition-transform transform hover:scale-110 hover:text-green-500"

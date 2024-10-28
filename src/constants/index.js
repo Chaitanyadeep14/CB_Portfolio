@@ -10,7 +10,7 @@ export const HERO_CONTENT = `I am a dedicated Computer Science & Information Tec
 
 export const ABOUT_TEXT = `
 
-I'm Shalu Pandey, a Computer Science & Information Technology student at Reva University with a strong passion for 
+I'm Chaitanya Deep Chellu, a Computer Science & Information Technology student at Reva University with a strong passion for 
 software development and data analysis. My academic journey has focused on programming languages like Python, C, and Java, 
 along with web technologies such as HTML, CSS, and JavaScript. I am proficient in SQL, Excel, and skilled in research, data analysis, 
 and project management. Some of my notable projects include a Netflix Clone page (HTML, CSS) , Personal Portfolio, DTC-Bus Scheduling & Route management System. 
@@ -19,42 +19,42 @@ contributing to innovative solutions and technological advancements.`
 export const EXPERIENCES = [
   {
     year: "2023 - 2024",
-    score: 9.36,
+    score: 9.58,
     sem: "IV - Semester [B.Tech CSIT]",
     description: `Studied advanced topics in Computer Science including Database Management Systems, Computer Organization and Architecture, and Design & Analysis of Algorithms. Explored Entrepreneurship to understand the fundamentals of starting and managing a business.`,
     technologies: ["Java", "DBMS", "COA", "Entrepreneurship","Design & Analysis of Algorithms"],
   },
   {
     year: "2023 - 2024",
-    score: 9.5,
+    score: 9.45,
     sem: "III - Semester [B.Tech CSIT]",
     description: `Delved into core subjects such as Data Structures with C and Theory of Computation. Gained practical experience in Python programming and worked on projects that involved data manipulation and algorithm design.`,
     technologies: ["Python", "Data Structures with C", "Theory of Computation"],
   },
   {
     year: "2022 - 2023",
-    score: 9.96,
+    score: 9.54,
     sem: "II -  Semester [B.Tech CSIT]",
     description: `Focused on Data Science and learned various data analysis techniques. Engaged in Computer-Aided Engineering Drawing (CAED) and acquired accounting knowledge. Applied theoretical concepts through hands-on projects and collaborative assignments.`,
     technologies: ["Data Science", "CAED", "Accounting"],
   },
   {
     year: "2022 - 2023",
-    score: 8.95,
+    score: 9.45,
     sem: "I -  Semester [B.Tech CSIT]",
     description: `Introduced to core programming concepts through C Programming. Explored the principles of Design Thinking and IoT and Applications. Worked on foundational projects to solidify understanding of basic computer science principles.`,
     technologies: ["C Programming","Design Thinking","IoT and Applications"],
   },
   {
     year: "2020 - 2022",
-    score: 9.70,
+    score: 8.56,
     sem: "Intermediate [M.P.C]",
     description: `Studied a rigorous curriculum including Mathematics, Physics, and Chemistry. Engaged in laboratory work and practical sessions to complement theoretical learning. Prepared for competitive exams to pursue higher education in engineering.`,
     technologies: ["Math(1A,1B,2A,2B)", "Physics", "Chemistry"],
   },
   {
     year: "2019 - 2020",
-    score: 7.56,
+    score: 9.18,
     sem: "Xth",
     description: `Completed secondary education with a focus on comprehensive subjects including Mathematics, Standard Science, Social Science, and languages. Participated in various extracurricular activities and excelled academically.`,
     technologies: ["Maths", "Standard Science", "Social Science", "English Lang","Telugu"],
@@ -75,6 +75,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Reva University, Bengaluru, Karnataka ",
-  phoneNo: "+91 9148758944",
-  email: "shalupandeys9876@gmail.com",
+  phoneNo: "+91 9392405515",
+  email: "chaitanyadeepchellu5510@gmail.com",
 };
